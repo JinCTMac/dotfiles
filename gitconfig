@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jinctmac@gmail.com
+	name = Jin Mac jinctmac@gmail.com
